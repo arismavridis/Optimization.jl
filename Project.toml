@@ -18,6 +18,8 @@ Reexport = "189a3867-3050-52da-a836-e630ba90ab69"
 SciMLBase = "0bca4576-84f4-4d90-8ffe-ffa030f20462"
 SparseArrays = "2f01184e-e22b-5df5-ae63-d93ebab69eaf"
 TerminalLoggers = "5d786b92-1e48-4d6f-9151-6b4477ca9bed"
+PrecompileTools = "aea7be01-6a6a-4083-8856-8a6e6704d82a"
+
 
 [compat]
 ADTypes = "1.2"
